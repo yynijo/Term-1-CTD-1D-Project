@@ -1,0 +1,5 @@
+event,x-pad,y-pad,stress,health,grades,x-speed
+Rhino,75,60,3,0,0,6
+Exam,25,25,4,0,0,4
+1DProject,25,25,4,0,0,5
+2DProject,25,25,3,0,0,6

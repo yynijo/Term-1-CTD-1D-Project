@@ -1,0 +1,4 @@
+event,x-pad,y-pad,stress,health,grades,x-speed
+Pizza,25,25,-2,2,0,15
+Sushi,25,25,0,2,0,15
+Switch,25,25,-2,0,0,15
